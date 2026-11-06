@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.svg" width="100%" alt="Terminal antigo de fósforo verde com o retrato de Yan Suzano e sua stack">
+    <img src="banner (1).svg" width="100%" alt="Terminal antigo de fósforo verde com o retrato de Yan Suzano e sua stack">
 </p>
 
 <p align="center">
